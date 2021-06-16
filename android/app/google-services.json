@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19866037473",
+    "project_id": "speedchat-11131",
+    "storage_bucket": "speedchat-11131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19866037473:android:b76421a2065cf57a315ba0",
+        "android_client_info": {
+          "package_name": "com.speedchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19866037473-g9tkpphibmlv22egvv67764n7juofhp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-p0c7y35JTbqyRCPyt2YxjL0ZpW6myM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19866037473-g9tkpphibmlv22egvv67764n7juofhp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+export const IS_AUTHTHENTICATED = 'IS_AUTHTHENTICATED';
+export const SET_USER = 'SET_USER';
+
+export const SET_POST = 'SET_POST';
+export const ERROR_POST = 'ERROR_POST';
+export const SEND_MESSAGE = 'SEND_MESSAGE';
+export const RECEIVED_MESSAGE = 'RECEIVED_MESSAGE';
+export const GET_MESSAGES = 'GET_MESSAGES';
+export const ERROR_MESSAGES = 'ERROR MESSAGES';
