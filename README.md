@@ -19,7 +19,7 @@
 Project Installation
 
 ```bash
-  git clone
+  git clone https://github.com/piratechetan/Speedchat.git
   cd Speedchat
   npm install or yarn install
 ```
