@@ -7,7 +7,7 @@
 <img src="https://www.linkpicture.com/q/Screenshot_2021-06-16-17-15-06-305_com.speedchat_google-pixel4-clearlywhite-portrait.png" width=300 align="left"/>
 <img src="https://www.linkpicture.com/q/Screenshot_2021-06-16-16-28-14-857_com.speedchat_google-pixel4-clearlywhite-portrait.png" width=300 align="right"/>
 <img src="https://www.linkpicture.com/q/Screenshot_2021-06-16-17-15-14-700_com.speedchat_google-pixel4-clearlywhite-portrait.png" width=300/>
-<p align="center"><img src="https://www.linkpicture.com/q/Screenshot_2021-06-16-16-28-25-998_com.speedchat_google-pixel4-clearlywhite-portrait.png" width=300 align="right"/></p>
+<img src="https://www.linkpicture.com/q/Screenshot_2021-06-16-16-28-25-998_com.speedchat_google-pixel4-clearlywhite-portrait.png" width=300 align="right"/>
 
 
 ## Demo
